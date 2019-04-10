@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BluetoothTutorial</string>
+    <string name="btnONOFF">ON/OFF</string>
+</resources>
